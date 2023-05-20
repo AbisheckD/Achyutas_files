@@ -1,19 +1,21 @@
 #include<reg52.h>
 
-sbit LED = P2^0;
-void Delay(void);
+sbit LED = P2^0;                  //   port 2 pin 0 used to toggle LED
+
+void ms_delay(void);
+
 void main(void)
 {
 	while(1)
 	{
-		LED = 0;
-		Delay();
-		LED = 1;
-		Delay();
+		LED = 0;        //  LED in OFF state
+		ms_delay();
+		LED = 1;        //  LED on ON state
+		ms_delay();
 	}
 }
 
-void Delay(void)
+void ms_delay(void)
 {
 	int i,j;
 	for(i=0; i<10; i++)
