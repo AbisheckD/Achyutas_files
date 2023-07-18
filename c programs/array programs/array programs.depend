@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1689568602 source:c:\users\abish\desktop\tools\c programs\array programs\program to remove duplicate element in array.c
+	<stdio.h>
+
+1689571362 source:c:\users\abish\desktop\tools\c programs\array programs\program to sort array elements in ascending and decending order.c
+	<stdio.h>
+
+1689574432 source:c:\users\abish\desktop\tools\c programs\array programs\program to find 2nd largest and 2nd smallest number in an array.c
+	<stdio.h>
+
+1689574865 source:c:\users\abish\desktop\tools\c programs\array programs\program to delete an element in an array.c
+	<stdio.h>
+
+1689577642 source:c:\users\abish\desktop\tools\c programs\array programs\program to insert an element in an array.c
+	<stdio.h>
+
