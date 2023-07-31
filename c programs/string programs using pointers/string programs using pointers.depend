@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689744923 source:c:\users\abish\desktop\tools\c programs\string programs using pointers\program to count string using pointer.c
+	<stdio.h>
+
+1689748990 source:c:\users\abish\desktop\tools\c programs\string programs using pointers\program to concat and compare two strings using pointer.c
+	<stdio.h>
+
