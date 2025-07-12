@@ -30,17 +30,17 @@ int main()
                   break;
          case '9' : printf("1001");
                   break;
-         case 'a' & 'A' : printf("1010");
+         case 'a' | 'A' : printf("1010");
                   break;
-         case 'b' & 'B' : printf("1011");
+         case 'b' | 'B' : printf("1011");
                   break;
-         case 'c' & 'C' : printf("1100");
+         case 'c' | 'C' : printf("1100");
                   break;
-         case 'd' & 'D' : printf("1101");
+         case 'd' | 'D' : printf("1101");
                   break;
-         case 'e' &  'E' : printf("1110");
+         case 'e' |  'E' : printf("1110");
                   break;
-         case 'f' & 'F' : printf("1111");
+         case 'f' | 'F' : printf("1111");
                   break;
          default:printf("Invalid Entry\n");
       }
